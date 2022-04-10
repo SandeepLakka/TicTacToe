@@ -8,7 +8,7 @@ Keep in mind that you will be playing against dumbest System ever when in Single
 
 Board size can be changed passing different size to constructor of Board
 
-Input is taken as *horizontal,vertical* cordinates format
+Input is taken as ```horizontal,vertical``` cordinates format
 
 e.g.: 
 ```    Lucky is playing with pin 'O'
